@@ -7,13 +7,10 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
-
+- [Wireframe #1](P3-Project_Planning/wireframe1.jpg) - P3-Project_Planning/wireframe1.jpg
+- [Wireframe #2](P3-Project_Planning/wireframe2.jpg) - P3-Project_Planning/wireframe2.jpg
+- [Wireframe #3](P3-Project_Planning/wireframe3.jpg) - P3-Project_Planning/wireframe3.jpg
 ### Project Tracker
-
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
-
+[Project Trello Board](https://trello.com/b/Kkm2FyfR/liftoff) - https://trello.com/b/Kkm2FyfR/liftoff
 ### Project Repo Link
-
-Include a link to your project on GitHub.
+[Project Repository](https://github.com/August-2022-KC-LCW-LiftOff/liftoff-team-angela-app.git) - https://github.com/August-2022-KC-LCW-LiftOff/liftoff-team-angela-app.git
